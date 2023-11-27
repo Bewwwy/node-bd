@@ -4,3 +4,6 @@ npm i express nodemon cors mysql2 --save-dev
 
 **abrir
 code .
+
+**iniciar o server no terminal do vs
+node .\src\server.js
