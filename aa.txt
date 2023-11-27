@@ -10,3 +10,15 @@ node .\src\server.js
 
 **iniciar o server com script do nodemon
 npm start
+
+- criar o banco 'escola' no php my admin
+
+use escola;
+
+CREATE TABLE alunos (
+	rm INT(7) NOT NULL AUTO_INCREMENT,
+	nome VARCHAR(50),
+	email VARCHAR(25),
+	telefone VARCHAR(20) NOT NULL
+
+);
