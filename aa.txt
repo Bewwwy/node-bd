@@ -1,0 +1,6 @@
+mkdir "pasta"
+npm init -y
+npm i express nodemon cors mysql2 --save-dev
+
+**abrir
+code .
