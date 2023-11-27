@@ -7,3 +7,6 @@ code .
 
 **iniciar o server no terminal do vs
 node .\src\server.js
+
+**iniciar o server com script do nodemon
+npm start
